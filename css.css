@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%
+}
+body{
+    background-image: linear-gradient(to right, blue , black);
+}
+.containerTitulo{
+    width: 100%;
+    height: 120px;
+  
+}
+.tituloPag{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: 50px;
+}
+.subtituloPag{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.containerConteudo{
+    margin:0px 5%;
+   
+    display: flex;
+    justify-content: space-between;
+}
+
+.containerSaude1{
+    width: 500px;
+    height: 350px;
+    background-color: red;
+    margin-left: 50px;
+}
+.containerSaude2{
+    width: 500px;
+    height: 350px;
+    background-color: blue;
+    margin-right: 50px;
+}
+.headerContainer{
+    width: 500px;
+    height: 40px;
+    background-color: rgb(36, 36, 36)
+}
+.textoSaude{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+p{
+    padding: 5px;   
+    font-size: 20px;
+    color:white;
+}
